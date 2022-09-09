@@ -1,0 +1,10 @@
+﻿Thu, 8 Sep 2022 21:13:36 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Thu, 8 Sep 2022 21:15:18 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Thu, 8 Sep 2022 21:17:58 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Thu, 8 Sep 2022 21:22:22 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Thu, 8 Sep 2022 21:23:23 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Thu, 8 Sep 2022 22:31:14 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Fri, 9 Sep 2022 01:15:39 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Fri, 9 Sep 2022 01:22:27 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Fri, 9 Sep 2022 01:54:55 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
+Fri, 9 Sep 2022 01:57:03 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Ejecución ok
