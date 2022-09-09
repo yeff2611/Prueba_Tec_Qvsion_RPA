@@ -1,0 +1,11 @@
+﻿\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos
+6 - Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo - \Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos
+6 - Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo - \Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos
+6 - Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo - \Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos
+6 - Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo - \Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos
+(8/09/2022 8:56:34 p. m.) Thu, 8 Sep 2022 20:56:21 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos, 7, Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo
+(8/09/2022 9:03:57 p. m.) Thu, 8 Sep 2022 21:03:39 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Linea Error:10, Could not Connect to Database. [Microsoft][Administrador de controladores ODBC] El nombre del origen de datos es demasiado largo
+(8/09/2022 9:18:13 p. m.) Thu, 8 Sep 2022 21:17:58 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Linea Error:27, Unable to find 'D:/Prueba Tecnica RPA/Prueba Tecnica RPA/archivos/Consolidado/Base_renovaciòn_DDMes_DDMes_SOAT_15Dias_S1.xlsx'. It may have been moved, renamed, or deleted. Check the file location and try again. If the problem persists, contact your system administrator.
+(8/09/2022 9:27:54 p. m.) Thu, 8 Sep 2022 21:23:23 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Linea Error:38, Unable to find any open session 'Default';
+(9/09/2022 1:12:30 a. m.) ,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Linea Error:4, Unable to find any open session 'Default';
+(9/09/2022 1:56:07 a. m.) Fri, 9 Sep 2022 01:54:55 -0500,\Bots\Prueba_Tecnica_QVision\botConsolidaInfoArchivos,Linea Error:42, An error occurred while implementing the formula '=SI.ERROR(EXTRAE(B3834;1;ENCONTRAR(" ";B3834;1));B3834)'. Please check the formula and try again.
