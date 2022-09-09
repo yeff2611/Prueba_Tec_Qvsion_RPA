@@ -12,5 +12,3 @@ Herramientas utilizadas:
 Para que el RPA Funcione correctamente es necesario:
 *Tener los directorios localmente
 *modificar las rutas que se encuentran en la carpeta Prueba Tecnica RPA-Archivos-Rutas-Rutas.xlsx
-
-Correo electrónico de prueba utilizado:
