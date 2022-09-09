@@ -9,4 +9,8 @@ Herramientas utilizadas:
 * Outlook OWA
 * Access database engine 2010 x86 - https://www.microsoft.com/es-co/download/details.aspx?id=13255
 
-Para que el RPA Funcione correctamente es necesario modificar las rutas que se encuentran en la carpeta Archivos-Rutas-Rutas.xlsx
+Para que el RPA Funcione correctamente es necesario:
+*Tener los directorios localmente
+*modificar las rutas que se encuentran en la carpeta Prueba Tecnica RPA-Archivos-Rutas-Rutas.xlsx
+
+Correo electrónico de prueba utilizado:
